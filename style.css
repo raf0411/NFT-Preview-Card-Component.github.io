@@ -147,7 +147,6 @@ body {
 
 .profile .creation-text{
   color: var(--clr-primary-400);
-  cursor: pointer;
 }
 
 .profile .name{
